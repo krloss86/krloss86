@@ -1,6 +1,6 @@
 # Carlos Horacio López
 
-![Foto de Perfil](https://media.licdn.com/dms/image/D4D03AQG9TMIf4b9wpw/profile-displayphoto-shrink_400_400/0/1702533112002?e=1727308800&v=beta&t=VAlLNVQFnOgDqvire5mcCfG7bVzUv4eA316WESIbgJg)
+![Foto de Perfil](https://media.licdn.com/dms/image/v2/D4D03AQEqnCurZcMsOw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724527406196?e=1731542400&v=beta&t=bjxzakIZfdY-kAujPnask2Oqw3X4RbP5dDZq5r4aUws)
 
 
 Soy Carlos Horacio López, un desarrollador e instructor con más de 17 años de experiencia en el ámbito de la programación y unos 5 en la enseñanza. Mi experiencia abarca desde el desarrollo full-stack hasta la capacitación en tecnologías clave como Java, Angular, React, NodeJs y TypeScript. Actualmente, combino mi pasión por la tecnología con mi dedicación a la educación, ofreciendo formación en ecosistgema Java y Javascript, y liderando proyectos tecnológicos en el ámbito empresarial.
